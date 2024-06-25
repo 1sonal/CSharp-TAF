@@ -1,0 +1,9 @@
+Catalog 
+Sales              
+Customers          
+Promotions         
+Content management 
+Configuration      
+System             
+Reports            
+Help               
