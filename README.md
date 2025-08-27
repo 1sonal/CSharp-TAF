@@ -8,7 +8,7 @@ It is designed for scalability, configurability, and ease of integration into CI
 
 ## 🚀 Features
 
-- ✅ **Cross-platform support** for UI (Web) and Mobile testing  
+
 - ✅ **TDD and BDD** style test case support  
 - ✅ **Customizable configuration** via `AppConfig.json`  
 - ✅ **Automation test reports** with detailed results  
