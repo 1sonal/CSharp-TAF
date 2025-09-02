@@ -1,0 +1,30 @@
+{
+  //UI application credentials
+  "Url": "https://admin-demo.nopcommerce.com/",
+  "EmailId": "admin@yourstore.com",
+  "PassWord": "admin",
+  "TimeOutSeconds": "10",
+
+  //Flag value true or false
+  "IsScreenShotReqdAtEveryStep": "true",
+
+  //Set the framework value according to execution(TDD/BDD)
+  "framework": "TDD",
+
+  //API details
+  "StripeUrl": "https://api.stripe.com/v1",
+  "StripeUserName": "sk_test_51M4eW5SGaHgBZQHg6Wy4S1sWv5CaiIsuNEUKIE72q8cxNvdgJSzjcQijjhiU0wmwxxIFhOMUFlyRnLCVk0QURFJK00ZiLTSmoD",
+
+  //Mobile capabilities
+  "DeviceName": "OPPO Reno8 Pro 5G",
+  "PlatformVersion": "14",
+  "AutomationName": "Appium",
+  "Udid": "VKEAOFAQIZRODYW8",
+  "PlatformName": "Android",
+  "URI": "http://127.0.0.1:4723/wd/hub",
+  //"URI": "http://0.0.0.0:4723/wd/hub",
+  "AppPackage": "com.moxsea",
+  "AppActivity": "com.moxsea.MainActivity"
+
+
+}
