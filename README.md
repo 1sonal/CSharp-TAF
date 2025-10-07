@@ -93,5 +93,5 @@ Reports include:
 
 
 
-✦ Screenshots for failed steps  
+ 
 
